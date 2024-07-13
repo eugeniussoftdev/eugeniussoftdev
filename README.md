@@ -1,9 +1,6 @@
 
 <p align="center"># 🏠 Hello👋, my name is Eugene</p>
-### I have been working with frontend since 2015.
 
-
-- 📖 I`m learning Solidity, Ether.js Web3.js
 
 ## 🔨 Skills
  
