@@ -25,6 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" alt="Skills" align="left" width="60" height="80"/> 
 
 <br><br><br>
 
